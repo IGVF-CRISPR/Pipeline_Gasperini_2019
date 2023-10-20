@@ -1,5 +1,5 @@
 # Pipeline_Gasperini_2019
-IGVF Gasperini processing using IGVF single cell like pipeline
+IGVF Gasperini processing using IGVF single cell like pipeline and using pre-processed data  
 
 [MuData Formatting Guidelines Draft](https://docs.google.com/document/d/1Y7LThEF4rPT5DnzwZnQ5uIek-X0BqZorLI5Mm8A8PF4/edit?usp=sharing)
 ## Preprocessed data
