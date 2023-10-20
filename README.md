@@ -2,12 +2,23 @@
 IGVF Gasperin processing using IGVF single cell like pipeline
 
 ## Preprocessed data
-For people developing modules, you can use the preprocessed data 
+For people developing modules, you can use the preprocessed data :
+__mudata/Gasperini_2019_sample_pilot.h5mu__
+
 
 ```
 
-
-
+MuData object with n_obs × n_vars = 7314 × 2225
+  var:	'feature_name'
+  2 modalities
+    guides:	7314 x 98
+      obs:	'number_of_nonzero_guides', 'batch_number'
+      var:	'feature_name', 'guide_chr', 'guide_end', 'guide_start', 'guide_number', 'target_elements', 'sequences'
+      uns:	'elements'
+      varm:	'guide_by_element'
+    scRNA:	7314 x 2127
+      obs:	'n_genes', 'n_counts', 'percent_mito', 'doublet_scores', 'predicted_doublets', 'doublet_info', 'batch_number'
+      var:	'feature_name', 'n_cells', 'transcript_chr', 'transcript_start', 'transcript_end'
 ```
 
 
