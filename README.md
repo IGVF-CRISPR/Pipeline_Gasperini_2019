@@ -22,7 +22,7 @@ MuData object with n_obs × n_vars = 7314 × 2225
       var:	'feature_name', 'n_cells', 'transcript_chr', 'transcript_start', 'transcript_end'
 ```
 
-
+[IMG] images/guide_obs.png[/IMG] 
 
 
 
