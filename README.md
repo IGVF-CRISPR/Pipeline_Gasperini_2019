@@ -29,7 +29,7 @@ wget https://sra-pub-src-1.s3.amazonaws.com/SRR7967488/pilot_highmoi_screen.1_CG
 ./bamtofastq_linux --nthreads="$NTHREADS" pilot_highmoi_screen.1_CGTTACCG.grna.bam bam_pilot_guide_1
 ```
 ---
-## Installing the PERTURB-SEQ single-cellSEQ single cell Environment
+## Installing the PERTURB-SEQ single-cell single cell Environment
 ```shell
 conda create -n perturbseq_like_pipeline_2023 python=3.8  
 conda activate perturbseq_like_pipeline_2023  
